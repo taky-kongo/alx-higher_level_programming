@@ -9,3 +9,5 @@
 <h2>0x03-python-data_structures</h2>
 
 <h2>0x04-python-more_data_structures</h2>
+
+<h2>0x05-python-exceptions</h2>
