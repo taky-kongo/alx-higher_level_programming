@@ -55,6 +55,30 @@ Write a function that divides 2 integers and prints the result.
 	<li>You are not allowed to import any module</li>
 </ul>
 
+<h3>4. Divide a list</h3>
+Write a function that divides element by element 2 lists.
+<ul>
+	<li>Prototype: def list_division(my_list_1, my_list_2, list_length):</li>
+	<li>my_list_1 and my_list_2 can contain any type (integer, string, etc.)</li>
+	<li>list_length can be bigger than the length of both lists</li>
+	<li>Returns a new list (length = list_length) with all divisions</li>
+	<li>If 2 elements can’t be divided, the division result should be equal to 0</li>
+	<li>If an element is not an integer or float:</li>
+	<ul>
+		<li>print: wrong type</li>
+	</ul>
+	<li>If the division can’t be done (/0):</li>
+	<ul>
+		<li>print: division by 0</li>
+	</ul>
+	<li>If my_list_1 or my_list_2 is too short</li>
+	<ul>
+		<li>print: out of range</li>
+	</ul>
+	<li>You have to use try: / except: / finally:</li>
+	<li>You are not allowed to import any module</li>
+</ul>
+
 <h3>5. Raise exception</h3>
 Write a function that raises a type exception.
 <ul>
@@ -62,7 +86,7 @@ Write a function that raises a type exception.
 	<li>You are not allowed to import any module</li>
 </ul>
 
-<h3>Raise a message</h3>
+<h3>6. Raise a message</h3>
 Write a function that raises a name exception with a message.
 <ul>
 	<li>Prototype: def raise_exception_msg(message=""):</li>
