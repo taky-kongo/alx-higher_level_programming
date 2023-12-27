@@ -54,3 +54,10 @@ Write a function that divides 2 integers and prints the result.
 	<li>You have to use "{}".format() to print the result</li>
 	<li>You are not allowed to import any module</li>
 </ul>
+
+<h3>5. Raise exception</h3>
+Write a function that raises a type exception.
+<ul>
+	<li>Prototype: def raise_exception():</li>
+	<li>You are not allowed to import any module</li>
+</ul>
