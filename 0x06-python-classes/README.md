@@ -13,3 +13,15 @@ Write a class Square that defines a square by: (based on 0-square.py)
 	<li>Instantiation with size (no type/value verification)</li>
 	<li>You are not allowed to import any module</li>
 </ul>
+
+<h2>2. Size validation</h2>
+Write a class Square that defines a square by: (based on 1-square.py)
+<ul>
+	<li>Private instance attribute: size</li>
+	<li>Instantiation with optional size: def __init__(self, size=0):</li>
+	<ul>
+		<li>size must be an integer, otherwise raise a TypeError exception with the message size must be an integer</li>
+		<li>if size is less than 0, raise a ValueError exception with the message size must be >= 0</li>
+	</ul>
+	<li>You are not allowed to import any module</li>
+</ul>
