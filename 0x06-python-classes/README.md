@@ -58,7 +58,7 @@ Write a class Square that defines a square by: (based on 3-square.py)
 </ul>
 
 <h2>5. Printing a square</h2>
-Write a class Square that defines a square by: (based on 3-square.py)
+Write a class Square that defines a square by: (based on 4-square.py)
 <br>
 <ul>
         <li>Private instance attribute: size:</li>
